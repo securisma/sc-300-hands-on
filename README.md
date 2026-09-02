@@ -1,7 +1,7 @@
 # SC-300 Hands-On Project Documentation  
 Comprehensive 7–10 Day Practical Implementation  
-Author: Mehmet  
-Location: Wichelen, Belgium  
+Author: Securisma  
+Location: Belgium  
 Date: September 2026  
 
 ---
@@ -240,5 +240,5 @@ Write a short summary of what you learned and how this project demonstrates SC-3
 ---
 
 ## 📬 Contact
-Author: Mehmet  
-Location: Wichelen, Belgium  
+Author: Securisma  
+Location: Belgium  
